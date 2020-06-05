@@ -1,0 +1,571 @@
+.elementor-widget-heading .elementor-heading-title {color: #0668b3;font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-image .widget-image-caption {color: #7a7a7a;font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-text-editor {color: #7a7a7a;font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap {background-color: #0668b3;}
+.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap, .elementor-widget-text-editor.elementor-drop-cap-view-default .elementor-drop-cap {color: #0668b3;border-color: #0668b3;}
+.elementor-widget-button .elementor-button {font-family: "Lato",Sans-serif;font-weight: 700;background-color: #ebb14d;}
+.elementor-widget-divider {--divider-border-color: #609cd9;}
+.elementor-widget-divider .elementor-divider__text {color: #609cd9;font-family: "Roboto Slab",Sans-serif;font-weight: 700;}
+.elementor-widget-divider.elementor-view-stacked .elementor-icon {background-color: #609cd9;}
+.elementor-widget-divider.elementor-view-framed .elementor-icon, .elementor-widget-divider.elementor-view-default .elementor-icon {color: #609cd9;border-color: #609cd9;}
+.elementor-widget-divider.elementor-view-framed .elementor-icon, .elementor-widget-divider.elementor-view-default .elementor-icon svg {fill: #609cd9;}
+.elementor-widget-image-box .elementor-image-box-content .elementor-image-box-title {color: #0668b3;font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-image-box .elementor-image-box-content .elementor-image-box-description {color: #7a7a7a;font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-icon.elementor-view-stacked .elementor-icon {background-color: #0668b3;}
+.elementor-widget-icon.elementor-view-framed .elementor-icon, .elementor-widget-icon.elementor-view-default .elementor-icon {color: #0668b3;border-color: #0668b3;}
+.elementor-widget-icon.elementor-view-framed .elementor-icon, .elementor-widget-icon.elementor-view-default .elementor-icon svg {fill: #0668b3;}
+.elementor-widget-icon-box.elementor-view-stacked .elementor-icon {background-color: #0668b3;}
+.elementor-widget-icon-box.elementor-view-framed .elementor-icon, .elementor-widget-icon-box.elementor-view-default .elementor-icon {fill: #0668b3;color: #0668b3;border-color: #0668b3;}
+.elementor-widget-icon-box .elementor-icon-box-content .elementor-icon-box-title {color: #0668b3;font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-icon-box .elementor-icon-box-content .elementor-icon-box-description {color: #7a7a7a;font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-star-rating .elementor-star-rating__title {color: #7a7a7a;font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-image-carousel .elementor-image-carousel-caption {font-family: "Lato",Sans-serif;font-weight: 700;}
+.elementor-widget-image-gallery .gallery-item .gallery-caption {font-family: "Lato",Sans-serif;font-weight: 700;}
+.elementor-widget-icon-list .elementor-icon-list-item:not(:last-child):after {border-color: #7a7a7a;}
+.elementor-widget-icon-list .elementor-icon-list-icon i {color: #0668b3;}
+.elementor-widget-icon-list .elementor-icon-list-icon svg {fill: #0668b3;}
+.elementor-widget-icon-list .elementor-icon-list-text {color: #609cd9;}
+.elementor-widget-icon-list .elementor-icon-list-item {font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-counter .elementor-counter-number-wrapper {color: #0668b3;font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-counter .elementor-counter-title {color: #609cd9;font-family: "Roboto Slab",Sans-serif;font-weight: 700;}
+.elementor-widget-progress .elementor-progress-wrapper .elementor-progress-bar {background-color: #0668b3;}
+.elementor-widget-progress .elementor-title {color: #0668b3;font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-testimonial .elementor-testimonial-content {color: #7a7a7a;font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-testimonial .elementor-testimonial-name {color: #0668b3;font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-testimonial .elementor-testimonial-job {color: #609cd9;font-family: "Roboto Slab",Sans-serif;font-weight: 700;}
+.elementor-widget-tabs .elementor-tab-title, .elementor-widget-tabs .elementor-tab-title a {color: #0668b3;}
+.elementor-widget-tabs .elementor-tab-title.elementor-active a {color: #ebb14d;}
+.elementor-widget-tabs .elementor-tab-title {font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-tabs .elementor-tab-content {color: #7a7a7a;font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-accordion .elementor-accordion-icon, .elementor-widget-accordion .elementor-accordion-title {color: #0668b3;}
+.elementor-widget-accordion .elementor-active .elementor-accordion-icon, .elementor-widget-accordion .elementor-active .elementor-accordion-title {color: #ebb14d;}
+.elementor-widget-accordion .elementor-accordion .elementor-accordion-title {font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-accordion .elementor-accordion .elementor-tab-content {color: #7a7a7a;font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-toggle .elementor-toggle-title, .elementor-widget-toggle .elementor-toggle-icon {color: #0668b3;}
+.elementor-widget-toggle .elementor-tab-title.elementor-active a, .elementor-widget-toggle .elementor-tab-title.elementor-active .elementor-toggle-icon {color: #ebb14d;}
+.elementor-widget-toggle .elementor-toggle .elementor-toggle-title {font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-toggle .elementor-toggle .elementor-tab-content {color: #7a7a7a;font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-alert .elementor-alert-title {font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-alert .elementor-alert-description {font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-be-timeline .tl-heading h4 {color: #609cd9;}
+.elementor-widget-be-timeline .be-pack .timeline-panel, .be-pack .timeline-panel p {color: #609cd9;}
+.elementor-widget-be-timeline .be-pack .tl-heading h4 {font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-be-timeline .be-pack .timeline-panel {font-family: "Proxima Nova",Sans-serif;font-weight: 700;background-color: #609cd9;}
+.elementor-widget-be-timeline .timeline li .tl-circ {background: #609cd9;border: 5px solid #e6e6e6 !important;}
+.timeline li .timeline-panel:before {border-left: 15px solid #609cd9;border-right: 0 solid #609cd9;}
+.timeline li .timeline-panel {border: 1px solid #609cd9;}
+.timeline:before {background-color: #609cd9;}
+.timeline li .timeline-panel:after {border-left: 14px solid #609cd9;border-right: 0 solid #609cd9;}
+.elementor-widget-eael-caldera-form .eael-contact-form-description {font-family: "Lato",Sans-serif;font-weight: 700;}
+.elementor-widget-eael-contact-form-7 .eael-contact-form-7 .eael-contact-form-7-title {font-family: "Lato",Sans-serif;font-weight: 700;}
+.elementor-widget-eael-contact-form-7 .eael-contact-form-7 .eael-contact-form-7-description {font-family: "Lato",Sans-serif;font-weight: 700;}
+.elementor-widget-eael-contact-form-7 .eael-contact-form-7 .wpcf7-form-control.wpcf7-text, .elementor-widget-eael-contact-form-7 .eael-contact-form-7 .wpcf7-form-control.wpcf7-textarea, .elementor-widget-eael-contact-form-7 .eael-contact-form-7 .wpcf7-form-control.wpcf7-select {font-family: "Lato",Sans-serif;font-weight: 700;}
+.elementor-widget-eael-contact-form-7 .eael-contact-form-7 .wpcf7-form label {font-family: "Lato",Sans-serif;font-weight: 700;}
+.elementor-widget-eael-contact-form-7 .eael-contact-form-7 .wpcf7-form-control::-webkit-input-placeholder {font-family: "Lato",Sans-serif;font-weight: 700;}
+.elementor-widget-eael-contact-form-7 .eael-contact-form-7 .wpcf7-form input[type=submit] {font-family: "Lato",Sans-serif;font-weight: 700;}
+.elementor-widget-eael-contact-form-7 .eael-contact-form-7 .wpcf7-validation-errors {font-family: "Lato",Sans-serif;font-weight: 700;}
+.elementor-widget-eael-countdown .eael-countdown-digits:after {font-family: "Roboto Slab",Sans-serif;font-weight: 700;}
+.elementor-widget-eael-countdown .eael-countdown-digits {font-family: "Roboto Slab",Sans-serif;font-weight: 700;}
+.elementor-widget-eael-countdown .eael-countdown-label {font-family: "Roboto Slab",Sans-serif;font-weight: 700;}
+.elementor-widget-eael-countdown .eael-countdown-finish-message .expiry-title {font-family: "Roboto Slab",Sans-serif;font-weight: 700;}
+.eael-countdown-finish-text {font-family: "Roboto Slab",Sans-serif;font-weight: 700;}
+.elementor-widget-eael-creative-button .eael-creative-button .cretive-button-text, .elementor-widget-eael-creative-button .eael-creative-button--winona:after {font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-eael-facebook-feed .eael-facebook-feed-card .eael-facebook-feed-item .eael-facebook-feed-item-inner .eael-facebook-feed-item-header .eael-facebook-feed-item-user .eael-facebook-feed-username {font-family: "Roboto Slab",Sans-serif;font-weight: 700;}
+.elementor-widget-eael-facebook-feed .eael-facebook-feed-card .eael-facebook-feed-item .eael-facebook-feed-item-inner .eael-facebook-feed-item-header .eael-facebook-feed-post-time {font-family: "Roboto Slab",Sans-serif;font-weight: 700;}
+.elementor-widget-eael-facebook-feed .eael-facebook-feed-card .eael-facebook-feed-item .eael-facebook-feed-item-inner .eael-facebook-feed-item-content .eael-facebook-feed-message {font-family: "Roboto Slab",Sans-serif;font-weight: 700;}
+.elementor-widget-eael-facebook-feed .eael-facebook-feed-card .eael-facebook-feed-item .eael-facebook-feed-item-inner .eael-facebook-feed-preview-wrap .eael-facebook-feed-url-preview .eael-facebook-feed-url-host {font-family: "Roboto Slab",Sans-serif;font-weight: 700;}
+.elementor-widget-eael-facebook-feed .eael-facebook-feed-card .eael-facebook-feed-item .eael-facebook-feed-item-inner .eael-facebook-feed-preview-wrap .eael-facebook-feed-url-preview .eael-facebook-feed-url-title {font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-eael-facebook-feed .eael-facebook-feed-card .eael-facebook-feed-item .eael-facebook-feed-item-inner .eael-facebook-feed-preview-wrap .eael-facebook-feed-url-preview .eael-facebook-feed-url-description {font-family: "Roboto Slab",Sans-serif;font-weight: 700;}
+.elementor-widget-eael-facebook-feed .eael-facebook-feed-overlay .eael-facebook-feed-item .eael-facebook-feed-item-overlay, .elementor-widget-eael-facebook-feed .eael-facebook-feed-card .eael-facebook-feed-item .eael-facebook-feed-item-inner .eael-facebook-feed-item-footer {font-family: "Roboto Slab",Sans-serif;font-weight: 700;}
+.elementor-widget-eael-fancy-text .eael-fancy-text-prefix {font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-eael-fancy-text .eael-fancy-text-strings, .elementor-widget-eael-fancy-text .typed-cursor {font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-eael-fancy-text .eael-fancy-text-suffix {font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-eael-feature-list .connector-type-classic .connector {border-color: #0668b3;}
+.elementor-widget-eael-feature-list .connector-type-modern .eael-feature-list-item:before, .elementor-widget-eael-feature-list .connector-type-modern .eael-feature-list-item:after {border-color: #0668b3;}
+.elementor-widget-eael-feature-list .eael-feature-list-content-box .eael-feature-list-title, .elementor-widget-eael-feature-list .eael-feature-list-content-box .eael-feature-list-title>a, .elementor-widget-eael-feature-list .eael-feature-list-content-box .eael-feature-list-title:visited {color: #0668b3;}
+.elementor-widget-eael-feature-list .eael-feature-list-content-box .eael-feature-list-title {font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-eael-feature-list .eael-feature-list-content-box .eael-feature-list-content {color: #7a7a7a;font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-eael-filterable-gallery .fg-caption-head .fg-item-price {font-family: "Lato",Sans-serif;font-weight: 700;}
+.elementor-widget-eael-filterable-gallery .fg-caption-head .fg-item-ratings {font-family: "Lato",Sans-serif;font-weight: 700;}
+.elementor-widget-eael-filterable-gallery .fg-item-category span {font-family: "Lato",Sans-serif;font-weight: 700;}
+.elementor-widget-eael-filterable-gallery .fg-filter-trigger>span {font-family: "Lato",Sans-serif;font-weight: 700;}
+.elementor-widget-eael-filterable-gallery .fg-layout-3-filter-controls li.control {font-family: "Lato",Sans-serif;font-weight: 700;}
+.elementor-widget-eael-filterable-gallery .eael-gallery-load-more .eael-filterable-gallery-load-more-text {font-family: "Lato",Sans-serif;font-weight: 700;}
+.elementor-widget-eael-fluentform .eael-fluentform-description {font-family: "Lato",Sans-serif;font-weight: 700;}
+.elementor-widget-eael-gravity-form .eael-gravity-form .gform_wrapper .gform_title, .elementor-widget-eael-gravity-form .eael-gravity-form .eael-gravity-form-title {font-family: "Lato",Sans-serif;font-weight: 700;}
+.elementor-widget-eael-gravity-form .eael-gravity-form .gform_wrapper .gform_description, .elementor-widget-eael-gravity-form .eael-gravity-form .eael-gravity-form-description {font-family: "Lato",Sans-serif;font-weight: 700;}
+.elementor-widget-eael-gravity-form .eael-gravity-form .gfield.gsection .gsection_title {font-family: "Lato",Sans-serif;font-weight: 700;}
+.elementor-widget-eael-gravity-form .eael-gravity-form .gform_footer input[type=submit], .elementor-widget-eael-gravity-form .eael-gravity-form .gform_body .gform_page_footer input[type=submit] {font-family: "Lato",Sans-serif;font-weight: 700;}
+.elementor-widget-eael-gravity-form .eael-gravity-form .gform_body .gform_page_footer input[type=button] {font-family: "Lato",Sans-serif;font-weight: 700;}
+.elementor-widget-eael-gravity-form .eael-gravity-form .gform_confirmation_wrapper .gform_confirmation_message {font-family: "Lato",Sans-serif;font-weight: 700;}
+.elementor-widget-eael-ninja .eael-ninja-form .eael-contact-form-description {font-family: "Lato",Sans-serif;font-weight: 700;}
+.elementor-widget-eael-ninja .eael-ninja-form .submit-container input[type=button] {font-family: "Lato",Sans-serif;font-weight: 700;}
+.elementor-widget-eael-ninja .eael-ninja-form .nf-form-fields-required {font-family: "Lato",Sans-serif;font-weight: 700;}
+.elementor-widget-eael-post-grid .eael-entry-title {font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-eael-post-grid .eael-grid-post-excerpt p {font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-eael-post-grid .eael-entry-meta>div, .elementor-widget-eael-post-grid .eael-entry-meta>span {font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-eael-post-timeline .eael-timeline-post-title h2 {font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-eael-post-timeline .eael-timeline-post-excerpt p {font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-eael-progress-bar .eael-progressbar-title {font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-eael-progress-bar .eael-progressbar-count-wrap {font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-eael-progress-bar .eael-progressbar-half-circle-after span {font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-eael-weform .eael-weform-container ul.wpuf-form .wpuf-submit input[type=submit] {font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-eael-wpforms .eael-contact-form-description, .elementor-widget-eael-wpforms .wpforms-description {font-family: "Lato",Sans-serif;font-weight: 700;}
+.elementor-widget-eael-wpforms .eael-wpforms .wpforms-field label {font-family: "Lato",Sans-serif;font-weight: 700;}
+.elementor-widget-eael-wpforms .eael-wpforms .wpforms-field input:not([type=radio]):not([type=checkbox]):not([type=submit]):not([type=button]):not([type=image]):not([type=file]), .elementor-widget-eael-wpforms .eael-wpforms .wpforms-field textarea, .elementor-widget-eael-wpforms .eael-wpforms .wpforms-field select {font-family: "Lato",Sans-serif;font-weight: 700;}
+.elementor-widget-eael-wpforms .eael-wpforms .wpforms-submit-container .wpforms-submit {font-family: "Lato",Sans-serif;font-weight: 700;}
+.elementor-widget-jet-carousel .jet-carousel__content .jet-carousel__item-title, .elementor-widget-jet-carousel .jet-banner__title {font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-jet-carousel .jet-carousel__content .jet-carousel__item-text {color: #7a7a7a;}
+.elementor-widget-jet-carousel .jet-banner__text {color: #7a7a7a;}
+.elementor-widget-jet-carousel .jet-carousel__content .jet-carousel__item-text, .elementor-widget-jet-carousel .jet-banner__text {font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-jet-carousel .jet-carousel__content .jet-carousel__item-button {font-family: "Lato",Sans-serif;font-weight: 700;}
+.elementor-widget-jet-carousel .jet-carousel__content .jet-carousel__item-button {background-color: #0668b3;}
+.elementor-widget-jet-carousel .jet-carousel .jet-arrow {background-color: #0668b3;}
+.elementor-widget-jet-carousel .jet-carousel .jet-arrow:hover {background-color: #0668b3;}
+.elementor-widget-jet-carousel .jet-carousel .jet-slick-dots li span {background-color: #7a7a7a;}
+.elementor-widget-jet-carousel .jet-carousel .jet-slick-dots li span:hover {background-color: #0668b3;}
+.elementor-widget-jet-carousel .jet-carousel .jet-slick-dots li.slick-active span {background-color: #ebb14d;}
+.elementor-widget-jet-animated-box .jet-animated-box__front {background-color: #0668b3;}
+.elementor-widget-jet-animated-box .jet-animated-box__back {background-color: #609cd9;}
+.elementor-widget-jet-animated-box .jet-animated-box__title--front {font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-jet-animated-box .jet-animated-box__title--back {font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-jet-animated-box .jet-animated-box__subtitle--front {font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-jet-animated-box .jet-animated-box__subtitle--back {font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-jet-animated-box .jet-animated-box__description--front {font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-jet-animated-box .jet-animated-box__description--back {font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-jet-animated-box .jet-animated-box__button {background-color: #0668b3;}
+.elementor-widget-jet-animated-box .jet-animated-box__button {font-family: "Lato",Sans-serif;font-weight: 700;}
+.elementor-widget-jet-animated-text .jet-animated-text__before-text {color: #609cd9;font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-jet-animated-text .jet-animated-text__animated-text {color: #0668b3;font-family: "Roboto Slab",Sans-serif;font-weight: 700;}
+.elementor-widget-jet-animated-text .jet-animated-text__animated-text-item:after {background-color: #0668b3;}
+.elementor-widget-jet-animated-text .jet-animated-text__after-text {color: #7a7a7a;font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-jet-banner .jet-banner__title {font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-jet-banner .jet-banner__text {font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-jet-brands .brands-list .brands-list__item-name {color: #0668b3;font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-jet-brands .brands-list .brands-list__item-desc {color: #7a7a7a;font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-jet-button .jet-button__plane-normal {background-color: #0668b3;}
+.elementor-widget-jet-button .jet-button__plane-hover {background-color: #609cd9;}
+.elementor-widget-jet-button .jet-button__state-normal .jet-button__label {font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-jet-button .jet-button__state-hover .jet-button__label {font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-jet-circle-progress .circle-counter .circle-val {color: #0668b3;font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-jet-circle-progress .circle-counter .circle-counter__title {color: #609cd9;font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-jet-circle-progress .circle-counter .circle-counter__subtitle {color: #7a7a7a;font-family: "Roboto Slab",Sans-serif;font-weight: 700;}
+.elementor-widget-jet-countdown-timer .jet-countdown-timer__item {border-color: #7a7a7a;}
+.elementor-widget-jet-countdown-timer .jet-countdown-timer__item-label {color: #7a7a7a;font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-jet-countdown-timer .jet-countdown-timer__item-value {color: #0668b3;font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-jet-download-button .jet-download__label {font-family: "Lato",Sans-serif;font-weight: 700;}
+.elementor-widget-jet-download-button .jet-download__sub-label {font-family: "Lato",Sans-serif;font-weight: 700;}
+.elementor-widget-jet-download-button .jet-download:hover .jet-download__label {font-family: "Lato",Sans-serif;font-weight: 700;}
+.elementor-widget-jet-download-button .jet-download:hover .jet-download__sub-label {font-family: "Lato",Sans-serif;font-weight: 700;}
+.elementor-widget-jet-dropbar .jet-dropbar__button-text {font-family: "Lato",Sans-serif;font-weight: 700;}
+.elementor-widget-jet-dropbar .jet-dropbar__content {font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-jet-headline .jet-headline__first .jet-headline__label {color: #609cd9;font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-jet-headline .jet-headline__second .jet-headline__label {color: #0668b3;font-family: "Roboto Slab",Sans-serif;font-weight: 700;}
+.elementor-widget-jet-horizontal-timeline .jet-hor-timeline-item__card-btn {font-family: "Lato",Sans-serif;font-weight: 700;background-color: #ebb14d;}
+.elementor-widget-jet-image-comparison .jx-left .jx-label {font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-jet-image-comparison .jx-left .jx-label {background-color: #609cd9;}
+.elementor-widget-jet-image-comparison .jx-right .jx-label {font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-jet-image-comparison .jx-right .jx-label {background-color: #609cd9;}
+.elementor-widget-jet-image-comparison .jx-slider .jx-controller {background-color: #0668b3;}
+.elementor-widget-jet-image-comparison .jx-slider:hover .jx-controller {background-color: #609cd9;}
+.elementor-widget-jet-image-comparison .jet-arrow {background-color: #0668b3;}
+.elementor-widget-jet-image-comparison .jet-arrow:hover {background-color: #ebb14d;}
+.elementor-widget-jet-image-comparison .jet-slick-dots li span {background-color: #7a7a7a;}
+.elementor-widget-jet-image-comparison .jet-slick-dots li span:hover {background-color: #0668b3;}
+.elementor-widget-jet-image-comparison .jet-slick-dots li.slick-active span {background-color: #ebb14d;}
+.elementor-widget-jet-images-layout .jet-images-layout__title {font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-jet-images-layout .jet-images-layout__desc {font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-jet-instagram-gallery .jet-instagram-gallery__content:before {background-color: #609cd9;}
+.elementor-widget-jet-instagram-gallery .jet-instagram-gallery__caption {font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-jet-instagram-gallery .jet-instagram-gallery__meta-label {font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-jet-portfolio .jet-portfolio__filter-item {font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-jet-portfolio .jet-portfolio__filter-item:hover {font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-jet-portfolio .jet-portfolio__filter-item.active {font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-jet-portfolio .jet-portfolio__title {font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-jet-portfolio .jet-portfolio__category {font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-jet-portfolio .jet-portfolio__desc {font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-jet-portfolio .jet-portfolio__button {background-color: #0668b3;}
+.elementor-widget-jet-portfolio .jet-portfolio__button {font-family: "Lato",Sans-serif;font-weight: 700;}
+.elementor-widget-jet-portfolio .jet-portfolio__view-more-button {background-color: #0668b3;}
+.elementor-widget-jet-portfolio .jet-portfolio__view-more-button {font-family: "Lato",Sans-serif;font-weight: 700;}
+.elementor-widget-jet-posts .jet-posts .entry-title a {color: #609cd9;}
+.elementor-widget-jet-posts .jet-posts .entry-title a:hover {color: #609cd9;}
+.elementor-widget-jet-posts .jet-posts .entry-title {font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-jet-posts .jet-posts .post-meta {color: #7a7a7a;font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-jet-posts .jet-posts .entry-excerpt {font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-jet-posts .jet-posts .jet-more {background-color: #0668b3;}
+.elementor-widget-jet-posts .jet-posts .jet-more {font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-jet-posts .jet-posts .jet-more:hover {background-color: #0668b3;}
+.elementor-widget-jet-posts .jet-posts .jet-posts__terms-link {font-family: "Lato",Sans-serif;font-weight: 700;}
+.elementor-widget-jet-posts .jet-posts .jet-posts__terms-link {background-color: #0668b3;}
+.elementor-widget-jet-posts .jet-posts .jet-posts__terms-link:hover {background-color: #0668b3;}
+.elementor-widget-jet-posts .jet-posts .jet-arrow {background-color: #0668b3;}
+.elementor-widget-jet-posts .jet-posts .jet-arrow:hover {background-color: #0668b3;}
+.elementor-widget-jet-posts .jet-carousel .jet-slick-dots li span {background-color: #7a7a7a;}
+.elementor-widget-jet-posts .jet-carousel .jet-slick-dots li span:hover {background-color: #0668b3;}
+.elementor-widget-jet-posts .jet-carousel .jet-slick-dots li.slick-active span {background-color: #ebb14d;}
+.elementor-widget-jet-posts .jet-title-fields__item-label {font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-jet-posts .jet-content-fields__item-label {font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-jet-price-list .jet-price-list .price-list__item-title {font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-jet-price-list .jet-price-list .price-list__item-price {font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-jet-price-list .jet-price-list .price-list__item-desc {font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-jet-pricing-table .pricing-table {border-color: #7a7a7a;}
+.elementor-widget-jet-pricing-table .pricing-table__title {color: #609cd9;font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-jet-pricing-table .pricing-table__subtitle {color: #609cd9;}
+.elementor-widget-jet-pricing-table .pricing-table__subtitle {font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-jet-pricing-table .pricing-table__icon-box>* {color: #0668b3;}
+.elementor-widget-jet-pricing-table .pricing-table__icon-box>* svg {fill: #0668b3;}
+.elementor-widget-jet-pricing-table .pricing-table__price-prefix {color: #0668b3;}
+.elementor-widget-jet-pricing-table .pricing-table__price-prefix {font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-jet-pricing-table .pricing-table__price-val {color: #0668b3;}
+.elementor-widget-jet-pricing-table .pricing-table__price-val {font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-jet-pricing-table .pricing-table__price-suffix {color: #0668b3;}
+.elementor-widget-jet-pricing-table .pricing-table__price-suffix {font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-jet-pricing-table .pricing-table__price-desc {font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-jet-pricing-table .pricing-feature {font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-jet-pricing-table .pricing-feature.item-included {color: #609cd9;}
+.elementor-widget-jet-pricing-table .pricing-feature.item-included .item-bullet {color: #ebb14d;}
+.elementor-widget-jet-pricing-table .pricing-feature.item-excluded {color: #7a7a7a;}
+.elementor-widget-jet-pricing-table .pricing-feature.item-excluded .item-bullet {color: #7a7a7a;}
+.elementor-widget-jet-pricing-table .pricing-feature:before {border-top-color: #7a7a7a;}
+.elementor-widget-jet-pricing-table .pricing-table__action {font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-jet-pricing-table .pricing-table__action .pricing-table-button {background-color: #0668b3;}
+.elementor-widget-jet-pricing-table .pricing-table__action .pricing-table-button {font-family: "Lato",Sans-serif;font-weight: 700;}
+.elementor-widget-jet-progress-bar .jet-progress-bar__title-text {font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-jet-progress-bar .jet-progress-bar__percent {font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-jet-scroll-navigation .jet-scroll-navigation__label {font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-jet-scroll-navigation .jet-scroll-navigation__item .jet-scroll-navigation__dot {background-color: #609cd9;}
+.elementor-widget-jet-scroll-navigation .jet-scroll-navigation__item.invert .jet-scroll-navigation__dot {background-color: #7a7a7a;}
+.elementor-widget-jet-scroll-navigation .jet-scroll-navigation__item:hover .jet-scroll-navigation__dot {background-color: #ebb14d;}
+.elementor-widget-jet-scroll-navigation .jet-scroll-navigation__item.active .jet-scroll-navigation__dot {background-color: #0668b3;}
+.elementor-widget-jet-services .jet-services__title-text {font-family: "Roboto Slab",Sans-serif;font-weight: 700;}
+.elementor-widget-jet-services .jet-services__desc {font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-jet-services .jet-services__button {background-color: #0668b3;}
+.elementor-widget-jet-services .jet-services__button {font-family: "Lato",Sans-serif;font-weight: 700;}
+.elementor-widget-jet-slider .jet-slider .slider-pro .jet-slider__item {background-color: #609cd9;}
+.elementor-widget-jet-slider .jet-slider .sp-image-container:after {background-color: #609cd9;}
+.elementor-widget-jet-slider .jet-slider__title {font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-jet-slider .jet-slider__subtitle {font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-jet-slider .jet-slider__desc {font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-jet-slider .jet-slider__button--primary {background-color: #0668b3;}
+.elementor-widget-jet-slider .jet-slider__button--primary {font-family: "Lato",Sans-serif;font-weight: 700;}
+.elementor-widget-jet-slider .jet-slider__button--secondary {background-color: #609cd9;}
+.elementor-widget-jet-slider .jet-slider__button--secondary {font-family: "Lato",Sans-serif;font-weight: 700;}
+.elementor-widget-jet-slider .jet-slider .sp-buttons .sp-button:hover {background-color: #0668b3;}
+.elementor-widget-jet-slider .jet-slider .sp-buttons .sp-button.sp-selected-button {background-color: #0668b3;}
+.elementor-widget-jet-slider .jet-slider .sp-thumbnail-container:before {border-color: #0668b3;}
+.elementor-widget-jet-slider .jet-slider .sp-thumbnail-container:hover:before {border-color: #609cd9;}
+.elementor-widget-jet-slider .jet-slider .sp-thumbnail-container.sp-selected-thumbnail:before {border-color: #0668b3;}
+.elementor-widget-jet-subscribe-form .jet-subscribe-form__input {font-family: "Lato",Sans-serif;font-weight: 700;}
+.elementor-widget-jet-subscribe-form .jet-subscribe-form__input:focus {font-family: "Lato",Sans-serif;font-weight: 700;}
+.elementor-widget-jet-subscribe-form .jet-subscribe-form__input.mail-invalid {font-family: "Lato",Sans-serif;font-weight: 700;}
+.elementor-widget-jet-subscribe-form .jet-subscribe-form__submit {background-color: #0668b3;}
+.elementor-widget-jet-subscribe-form .jet-subscribe-form__submit {font-family: "Lato",Sans-serif;font-weight: 700;}
+.elementor-widget-jet-subscribe-form .jet-subscribe-form--response-success .jet-subscribe-form__message span {font-family: "Lato",Sans-serif;font-weight: 700;}
+.elementor-widget-jet-subscribe-form .jet-subscribe-form--response-error .jet-subscribe-form__message span {font-family: "Lato",Sans-serif;font-weight: 700;}
+.elementor-widget-jet-team-member .jet-team-member__name .jet-team-member__name-first {font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-jet-team-member .jet-team-member__name .jet-team-member__name-last {font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-jet-team-member .jet-team-member__position {font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-jet-team-member .jet-team-member__desc {font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-jet-team-member .jet-team-member__button {background-color: #0668b3;}
+.elementor-widget-jet-team-member .jet-team-member__button {font-family: "Lato",Sans-serif;font-weight: 700;}
+.elementor-widget-jet-testimonials .jet-testimonials__title {font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-jet-testimonials .jet-testimonials__comment {font-family: "Calibri",Sans-serif;font-weight: 400;background-color: #0668b3;}
+.elementor-widget-jet-testimonials .jet-testimonials__name {color: #609cd9;font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-jet-testimonials .jet-testimonials__name a:hover {color: #609cd9;}
+.elementor-widget-jet-testimonials .jet-testimonials__position {color: #0668b3;font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-jet-testimonials .jet-testimonials__date {color: #7a7a7a;font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-jet-testimonials .jet-testimonials__instance .jet-arrow {background-color: #0668b3;}
+.elementor-widget-jet-testimonials .jet-testimonials__instance .jet-arrow:hover {background-color: #ebb14d;}
+.elementor-widget-jet-testimonials .jet-testimonials__instance .jet-slick-dots li span {background-color: #7a7a7a;}
+.elementor-widget-jet-testimonials .jet-testimonials__instance .jet-slick-dots li span:hover {background-color: #0668b3;}
+.elementor-widget-jet-testimonials .jet-testimonials__instance .jet-slick-dots li.slick-active span {background-color: #ebb14d;}
+.elementor-widget-jet-timeline .jet-timeline-item .timeline-item__meta-content {font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-jet-timeline .jet-timeline-item .timeline-item__card-title {font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-jet-timeline .jet-timeline-item .timeline-item__card-desc {font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-jet-timeline .timeline-item__card-btn {font-family: "Lato",Sans-serif;font-weight: 700;background-color: #ebb14d;}
+.elementor-widget-jet-timeline .timeline-item__point-content.timeline-item__point-content--text {font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-premium-addon-banner .premium-banner-ib-desc .premium_banner_title {color: #0668b3;font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-premium-addon-banner .premium-banner .premium_banner_content {color: #7a7a7a;font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-premium-addon-banner .premium-banner .premium-banner-link {color: #7a7a7a;}
+.elementor-widget-premium-addon-banner .premium-banner .premium-banner-link:hover {color: #7a7a7a;}
+.elementor-widget-premium-addon-banner .premium-banner-link {font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-premium-addon-blog .premium-blog-thumbnail-container:before, .elementor-widget-premium-addon-blog .premium-blog-thumbnail-container:after {background-color: #609cd9;}
+.elementor-widget-premium-addon-blog .premium-blog-post-link:before, .elementor-widget-premium-addon-blog .premium-blog-post-link:after {border-color: #609cd9;}
+.elementor-widget-premium-addon-blog .premium-blog-format-container i, .elementor-widget-premium-addon-blog .premium-blog-thumbnail-overlay a {color: #609cd9;}
+.elementor-widget-premium-addon-blog .premium-blog-format-container:hover i, .elementor-widget-premium-addon-blog .premium-blog-thumbnail-overlay a:hover {color: #0668b3;}
+.elementor-widget-premium-addon-blog .premium-blog-format-container, .elementor-widget-premium-addon-blog .premium-blog-thumbnail-overlay a {background-color: #0668b3;}
+.elementor-widget-premium-addon-blog .premium-blog-format-container:hover, .elementor-widget-premium-addon-blog .premium-blog-thumbnail-overlay a:hover {background-color: #609cd9;}
+.elementor-widget-premium-addon-blog .premium-blog-entry-title a {color: #609cd9;}
+.elementor-widget-premium-addon-blog .premium-blog-entry-title:hover a {color: #0668b3;}
+.elementor-widget-premium-addon-blog .premium-blog-entry-meta, .elementor-widget-premium-addon-blog .premium-blog-entry-meta a {color: #609cd9;}
+.elementor-widget-premium-addon-blog .premium-blog-entry-meta a:hover, .elementor-widget-premium-addon-blog .premium-blog-entry-meta span:hover {color: #0668b3;}
+.elementor-widget-premium-addon-blog .premium-blog-post-tags-container, .elementor-widget-premium-addon-blog .premium-blog-post-tags-container a {color: #609cd9;}
+.elementor-widget-premium-addon-blog .premium-blog-post-tags-container a:hover {color: #0668b3;}
+.elementor-widget-premium-addon-blog .premium-blog-post-content {color: #7a7a7a;}
+.elementor-widget-premium-addon-blog .premium-blog-pagination-container li .page-numbers {color: #609cd9;background-color: #0668b3;}
+.elementor-widget-premium-addon-blog .premium-blog-pagination-container li .page-numbers:hover {color: #0668b3;background-color: #609cd9;}
+.elementor-widget-premium-addon-blog .premium-blog-pagination-container li span.current {color: #0668b3;background-color: #609cd9;}
+.elementor-widget-premium-addon-blog ul.slick-dots li {color: #609cd9;}
+.elementor-widget-premium-addon-blog ul.slick-dots li.slick-active {color: #0668b3;}
+.elementor-widget-premium-addon-blog .premium-blog-wrap .slick-arrow {color: #0668b3;background-color: #609cd9;}
+.elementor-widget-premium-addon-blog .premium-blog-cats-container li a.category span {color: #609cd9;}
+.elementor-widget-premium-addon-blog .premium-blog-cats-container li a.active span {color: #0668b3;}
+.elementor-widget-premium-addon-blog .premium-blog-cats-container li a.category {font-family: "Proxima Nova",Sans-serif;font-weight: 700;background-color: #0668b3;}
+.elementor-widget-premium-addon-blog .premium-blog-cats-container li a.active {background-color: #609cd9;}
+.elementor-widget-premium-addon-button .premium-button {font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-premium-addon-button .premium-button .premium-button-text-icon-wrapper span {color: #609cd9;}
+.elementor-widget-premium-addon-button .premium-button-text-icon-wrapper i {color: #609cd9;}
+.elementor-widget-premium-addon-button .premium-button, .elementor-widget-premium-addon-button .premium-button.premium-button-style2-shutinhor:before, .elementor-widget-premium-addon-button .premium-button.premium-button-style2-shutinver:before, .elementor-widget-premium-addon-button .premium-button-style5-radialin:before, .elementor-widget-premium-addon-button .premium-button-style5-rectin:before {background-color: #0668b3;}
+.elementor-widget-premium-addon-button .premium-button:hover .premium-button-text-icon-wrapper span {color: #0668b3;}
+.elementor-widget-premium-addon-button .premium-button:hover .premium-button-text-icon-wrapper i {color: #609cd9;}
+.elementor-widget-premium-addon-button .premium-button:hover .premium-button-style4-icon-wrapper {color: #0668b3;}
+.elementor-widget-premium-addon-button .premium-button-none:hover, .elementor-widget-premium-addon-button .premium-button-style1-bottom:before, .elementor-widget-premium-addon-button .premium-button-style1-top:before, .elementor-widget-premium-addon-button .premium-button-style1-right:before, .elementor-widget-premium-addon-button .premium-button-style1-left:before, .elementor-widget-premium-addon-button .premium-button-style2-shutouthor:before, .elementor-widget-premium-addon-button .premium-button-style2-shutoutver:before, .elementor-widget-premium-addon-button .premium-button-style2-shutinhor, .elementor-widget-premium-addon-button .premium-button-style2-shutinver, .elementor-widget-premium-addon-button .premium-button-style2-dshutinhor:before, .elementor-widget-premium-addon-button .premium-button-style2-dshutinver:before, .elementor-widget-premium-addon-button .premium-button-style2-scshutouthor:before, .elementor-widget-premium-addon-button .premium-button-style2-scshutoutver:before, .elementor-widget-premium-addon-button .premium-button-style3-after:hover, .elementor-widget-premium-addon-button .premium-button-style3-before:hover, .elementor-widget-premium-addon-button .premium-button-style4-icon-wrapper, .elementor-widget-premium-addon-button .premium-button-style5-radialin, .elementor-widget-premium-addon-button .premium-button-style5-radialout:before, .elementor-widget-premium-addon-button .premium-button-style5-rectin, .elementor-widget-premium-addon-button .premium-button-style5-rectout:before {background-color: #7a7a7a;}
+.elementor-widget-premium-carousel-widget .premium-carousel-wrapper .slick-arrow {color: #609cd9;}
+.elementor-widget-premium-carousel-widget .premium-carousel-wrapper .slick-arrow:hover {color: #609cd9;}
+.elementor-widget-premium-carousel-widget ul.slick-dots li {color: #609cd9;}
+.elementor-widget-premium-carousel-widget ul.slick-dots li.slick-active {color: #0668b3;}
+.elementor-widget-premium-countdown-timer .countdown .pre_countdown-section .pre_countdown-amount {color: #609cd9;font-family: "Calibri",Sans-serif;font-weight: 400;background-color: #0668b3;}
+.elementor-widget-premium-countdown-timer .countdown .pre_countdown-section .pre_countdown-period {color: #609cd9;font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-premium-countdown-timer .pre-countdown_separator {color: #609cd9;}
+.elementor-widget-premium-counter .premium-counter-area .premium-counter-icon .icon i {color: #0668b3;}
+.elementor-widget-premium-counter .premium-counter-area .premium-counter-icon .icon-bg {background: #609cd9;}
+.elementor-widget-premium-counter .premium-counter-area .premium-counter-title {color: #0668b3;font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-premium-counter .premium-counter-area .premium-counter-init {color: #0668b3;font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-premium-counter .premium-counter-area span#prefix {color: #0668b3;font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-premium-counter .premium-counter-area span#suffix {color: #0668b3;font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-premium-addon-dual-header .premium-dual-header-first-span {font-family: "Proxima Nova",Sans-serif;font-weight: 700;color: #0668b3;}
+.elementor-widget-premium-addon-dual-header .premium-dual-header-second-header {font-family: "Proxima Nova",Sans-serif;font-weight: 700;color: #609cd9;}
+.elementor-widget-premium-addon-fancy-text .premium-fancy-text {color: #0668b3;font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-premium-addon-fancy-text .typed-cursor {color: #0668b3;font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-premium-addon-fancy-text .premium-prefix-text, .elementor-widget-premium-addon-fancy-text .premium-suffix-text {color: #609cd9;font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-premium-img-gallery .premium-gallery-img-name, .elementor-widget-premium-img-gallery .premium-gallery-img-name a {color: #609cd9;font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-premium-img-gallery .premium-gallery-img-desc, .elementor-widget-premium-img-gallery .premium-gallery-img-desc a {color: #7a7a7a;font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-premium-img-gallery .pa-gallery-magnific-image i, .elementor-widget-premium-img-gallery .pa-gallery-img-link i {color: #0668b3;}
+.elementor-widget-premium-img-gallery .pa-gallery-magnific-image span, .elementor-widget-premium-img-gallery .pa-gallery-img-link span {background-color: #609cd9;}
+.elementor-widget-premium-img-gallery .pa-gallery-magnific-image:hover i, .elementor-widget-premium-img-gallery .pa-gallery-img-link:hover i {color: #0668b3;}
+.elementor-widget-premium-img-gallery .pa-gallery-magnific-image:hover span, .elementor-widget-premium-img-gallery .pa-gallery-img-link:hover span {background-color: #609cd9;}
+.elementor-widget-premium-img-gallery .premium-gallery-cats-container li a.category {font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-premium-img-gallery .premium-gallery-cats-container li a.category span {color: #609cd9;}
+.elementor-widget-premium-img-gallery .premium-gallery-cats-container li a.active span {color: #0668b3;}
+.elementor-widget-premium-img-gallery .premium-gallery-load-more-btn {font-family: "Proxima Nova",Sans-serif;font-weight: 700;color: #609cd9;}
+.elementor-widget-premium-img-gallery .premium-gallery-load-more-btn .premium-loader {border-color: #609cd9;border-top-color: #609cd9;}
+.elementor-widget-premium-img-gallery .premium-gallery-load-more-btn:hover {color: #609cd9;}
+.elementor-widget-premium-addon-image-button .premium-image-button {font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-premium-addon-image-button .premium-image-button .premium-image-button-text-icon-wrapper {color: #609cd9;}
+.elementor-widget-premium-addon-image-button .premium-image-button-text-icon-wrapper i {color: #609cd9;}
+.elementor-widget-premium-addon-image-button .premium-image-button:hover .premium-image-button-text-icon-wrapper {color: #0668b3;}
+.elementor-widget-premium-addon-image-button .premium-image-button:hover .premium-image-button-text-icon-wrapper i {color: #0668b3;}
+.elementor-widget-premium-addon-image-button .premium-image-button:hover .premium-image-button-style4-icon-wrapper {color: #0668b3;}
+.elementor-widget-premium-addon-image-button .premium-image-button-diagonal-effect-top:before, .elementor-widget-premium-addon-image-button .premium-image-button-diagonal-effect-bottom:before, .elementor-widget-premium-addon-image-button .premium-image-button-diagonal-effect-left:before, .elementor-widget-premium-addon-image-button .premium-image-button-diagonal-effect-right:before {background-color: #0668b3;}
+.elementor-widget-premium-addon-image-button .premium-image-button-overlap-effect-horizontal:before, .elementor-widget-premium-addon-image-button .premium-image-button-overlap-effect-vertical:before {background-color: #0668b3;}
+.elementor-widget-premium-addon-image-button .premium-image-button-squares-effect:before, .elementor-widget-premium-addon-image-button .premium-image-button-squares-effect:after, .elementor-widget-premium-addon-image-button .premium-image-button-squares-square-container:before, .elementor-widget-premium-addon-image-button .premium-image-button-squares-square-container:after {background-color: #0668b3;}
+.elementor-widget-premium-addon-image-separator .premium-image-separator-container i {color: #0668b3;background-color: #609cd9;}
+.elementor-widget-premium-addon-image-separator .premium-image-separator-container i:hover {color: #0668b3;background-color: #609cd9;}
+.elementor-widget-premium-addon-maps .premium-maps-info-title {color: #0668b3;font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-premium-addon-maps .premium-maps-info-desc {color: #609cd9;font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-premium-addon-modal-box .premium-modal-trigger-btn, .elementor-widget-premium-addon-modal-box .premium-modal-trigger-text {color: #609cd9;font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-premium-addon-modal-box .premium-modal-trigger-btn:hover, .elementor-widget-premium-addon-modal-box .premium-modal-trigger-text:hover {color: #609cd9;}
+.elementor-widget-premium-addon-modal-box .premium-modal-trigger-btn i {color: #609cd9;}
+.elementor-widget-premium-addon-modal-box .premium-modal-trigger-btn:hover i {color: #609cd9;}
+.elementor-widget-premium-addon-modal-box .premium-modal-trigger-btn {background-color: #0668b3;}
+.elementor-widget-premium-addon-modal-box .premium-modal-box-modal-title {font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-premium-addon-modal-box .premium-modal-box-modal-lower-close {font-family: "Proxima Nova",Sans-serif;font-weight: 700;color: #609cd9;background-color: #0668b3;}
+.elementor-widget-premium-addon-modal-box .premium-modal-box-modal-lower-close:hover {color: #0668b3;background-color: #609cd9;}
+.elementor-widget-premium-addon-person .premium-person-name {color: #0668b3;font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-premium-addon-person .premium-person-title {color: #609cd9;font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-premium-addon-person .premium-person-content {color: #7a7a7a;font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-premium-addon-person .premium-person-list-item i {color: #0668b3;}
+.elementor-widget-premium-addon-person .premium-person-list-item:hover i {color: #609cd9;}
+.elementor-widget-premium-addon-person .premium-persons-container .slick-arrow {color: #0668b3;background-color: #609cd9;}
+.elementor-widget-premium-addon-person .premium-persons-container .slick-arrow:hover {color: #0668b3;background-color: #609cd9;}
+.elementor-widget-premium-addon-pricing-table .premium-pricing-icon-container i {color: #609cd9;}
+.elementor-widget-premium-addon-pricing-table .premium-pricing-icon-container i, .elementor-widget-premium-addon-pricing-table .premium-pricing-icon {background-color: #0668b3;}
+.elementor-widget-premium-addon-pricing-table .premium-pricing-table-title {color: #0668b3;font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-premium-addon-pricing-table .premium-pricing-slashed-price-value {color: #0668b3;font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-premium-addon-pricing-table .premium-pricing-price-currency {color: #0668b3;font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-premium-addon-pricing-table .premium-pricing-price-value {color: #0668b3;font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-premium-addon-pricing-table .premium-pricing-price-separator {color: #0668b3;font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-premium-addon-pricing-table .premium-pricing-price-duration {color: #0668b3;font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-premium-addon-pricing-table .premium-pricing-list-span {color: #609cd9;}
+.elementor-widget-premium-addon-pricing-table .premium-pricing-list .premium-pricing-list-span {font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-premium-addon-pricing-table .premium-pricing-feature-icon {color: #0668b3;}
+.elementor-widget-premium-addon-pricing-table .premium-pricing-list-tooltip {font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-premium-addon-pricing-table .premium-pricing-description-container {color: #609cd9;font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-premium-addon-pricing-table .premium-pricing-price-button {color: #609cd9;font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-premium-addon-pricing-table .premium-pricing-price-button:hover {color: #609cd9;}
+.elementor-widget-premium-addon-pricing-table .premium-pricing-badge-container .corner span {color: #609cd9;font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-premium-addon-pricing-table .premium-badge-triangle.premium-badge-left .corner {border-top-color: #0668b3;}
+.elementor-widget-premium-addon-pricing-table .premium-badge-triangle.premium-badge-right .corner {border-right-color: #0668b3;}
+.elementor-widget-premium-addon-pricing-table .premium-badge-circle, .elementor-widget-premium-addon-pricing-table .premium-badge-stripe .corner, .elementor-widget-premium-addon-pricing-table .premium-badge-flag .corner {background-color: #0668b3;}
+.elementor-widget-premium-addon-pricing-table .premium-badge-flag .corner:before {border-left: 8px solid #0668b3;}
+.elementor-widget-premium-addon-progressbar .premium-progressbar-circle-base {border-color: #0668b3;}
+.elementor-widget-premium-addon-progressbar .premium-progressbar-circle div {border-color: #609cd9;}
+.elementor-widget-premium-addon-progressbar .premium-progressbar-left-label {color: #0668b3;font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-premium-addon-progressbar .premium-progressbar-right-label {color: #0668b3;font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-premium-addon-progressbar .premium-progressbar-center-label {color: #0668b3;font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-premium-addon-progressbar .premium-progressbar-percentage {color: #0668b3;font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-premium-addon-progressbar .premium-progressbar-arrow {color: #0668b3;}
+.elementor-widget-premium-addon-progressbar .premium-progressbar-pin {border-color: #609cd9;}
+.elementor-widget-premium-addon-progressbar .premium-progressbar-circle-icon {color: #0668b3;}
+.elementor-widget-premium-addon-testimonials .premium-testimonial-img-wrapper {border-color: #0668b3;}
+.elementor-widget-premium-addon-testimonials .premium-testimonial-person-name {color: #0668b3;font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-premium-addon-testimonials .premium-testimonial-separator {color: #0668b3;}
+.elementor-widget-premium-addon-testimonials .premium-testimonial-company-link {color: #609cd9;font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-premium-addon-testimonials .premium-testimonial-text-wrapper {color: #7a7a7a;font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-premium-addon-title .premium-title-header {color: #0668b3;font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-premium-addon-title .premium-title-style2 {background-color: #609cd9;}
+.elementor-widget-premium-addon-title .premium-title-style3 {background-color: #609cd9;}
+.elementor-widget-premium-addon-title .premium-title-style5 {border-bottom: 2px solid #0668b3;}
+.elementor-widget-premium-addon-title .premium-title-style6 {border-bottom: 2px solid #0668b3;}
+.elementor-widget-premium-addon-title .premium-title-style6:before {border-bottom-color: #0668b3;}
+.elementor-widget-premium-addon-title .premium-title-style7-stripe {background-color: #0668b3;}
+.elementor-widget-premium-addon-title .premium-title-icon {color: #0668b3;}
+.elementor-widget-premium-addon-video-box .premium-video-box-play-icon {color: #0668b3;}
+.elementor-widget-premium-addon-video-box .premium-video-box-play-icon-container:hover .premium-video-box-play-icon {color: #609cd9;}
+.elementor-widget-premium-addon-video-box .premium-video-box-text {color: #0668b3;font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-premium-addon-video-box .premium-video-box-description-container:hover .premium-video-box-text {color: #0668b3;}
+.elementor-widget-premium-addon-video-box .premium-video-box-description-container {background-color: #609cd9;}
+.elementor-widget-premium-vscroll .premium-vscroll-tooltip {color: #0668b3;background-color: #0668b3;}
+.elementor-widget-premium-vscroll .premium-vscroll-tooltip span {font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-premium-vscroll .premium-vscroll-inner .premium-vscroll-dots.right .premium-vscroll-tooltip:after {border-left-color: #0668b3;}
+.elementor-widget-premium-vscroll .premium-vscroll-inner .premium-vscroll-dots.left .premium-vscroll-tooltip:after {border-right-color: #0668b3;}
+.elementor-widget-premium-vscroll .premium-vscroll-dots .premium-vscroll-nav-link span {background-color: #0668b3;border-color: #609cd9;}
+.elementor-widget-premium-vscroll .premium-vscroll-dots li.active .premium-vscroll-nav-link span {background-color: #609cd9;}
+.elementor-widget-premium-vscroll .premium-vscroll-dots {background-color: #0668b3;}
+.elementor-widget-premium-vscroll .premium-vscroll-nav-menu .premium-vscroll-nav-item .premium-vscroll-nav-link {color: #0668b3;}
+.elementor-widget-premium-vscroll .premium-vscroll-nav-menu .premium-vscroll-nav-item .premium-vscroll-nav-link:hover {color: #0668b3;}
+.elementor-widget-premium-vscroll .premium-vscroll-nav-menu .premium-vscroll-nav-item {background-color: #609cd9;}
+.elementor-widget-premium-vscroll .premium-vscroll-nav-menu .premium-vscroll-nav-item.active .premium-vscroll-nav-link {color: #609cd9;}
+.elementor-widget-premium-vscroll .premium-vscroll-nav-menu .premium-vscroll-nav-item.active .premium-vscroll-nav-link:hover {color: #609cd9;}
+.elementor-widget-premium-vscroll .premium-vscroll-nav-menu .premium-vscroll-nav-item.active {background-color: #0668b3;}
+.elementor-widget-theme-site-logo .widget-image-caption {color: #7a7a7a;font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-theme-site-title .elementor-heading-title {color: #0668b3;font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-theme-page-title .elementor-heading-title {color: #0668b3;font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-theme-post-title .elementor-heading-title {color: #0668b3;font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-theme-post-excerpt .elementor-widget-container {color: #7a7a7a;font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-theme-post-content {color: #7a7a7a;font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-theme-post-featured-image .widget-image-caption {color: #7a7a7a;font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-theme-archive-title .elementor-heading-title {color: #0668b3;font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-archive-posts .elementor-post__title, .elementor-widget-archive-posts .elementor-post__title a {color: #609cd9;font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-archive-posts .elementor-post__meta-data {font-family: "Roboto Slab",Sans-serif;font-weight: 700;}
+.elementor-widget-archive-posts .elementor-post__excerpt p {font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-archive-posts .elementor-post__read-more {color: #ebb14d;font-family: "Lato",Sans-serif;font-weight: 700;}
+.elementor-widget-archive-posts .elementor-post__card .elementor-post__badge {background-color: #ebb14d;font-family: "Lato",Sans-serif;font-weight: 700;}
+.elementor-widget-archive-posts .elementor-pagination {font-family: "Roboto Slab",Sans-serif;font-weight: 700;}
+.elementor-widget-archive-posts .elementor-posts-nothing-found {color: #7a7a7a;font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-posts .elementor-post__title, .elementor-widget-posts .elementor-post__title a {color: #609cd9;font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-posts .elementor-post__meta-data {font-family: "Roboto Slab",Sans-serif;font-weight: 700;}
+.elementor-widget-posts .elementor-post__excerpt p {font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-posts .elementor-post__read-more {color: #ebb14d;font-family: "Lato",Sans-serif;font-weight: 700;}
+.elementor-widget-posts .elementor-post__card .elementor-post__badge {background-color: #ebb14d;font-family: "Lato",Sans-serif;font-weight: 700;}
+.elementor-widget-posts .elementor-pagination {font-family: "Roboto Slab",Sans-serif;font-weight: 700;}
+.elementor-widget-portfolio a .elementor-portfolio-item__overlay {background-color: #ebb14d;}
+.elementor-widget-portfolio .elementor-portfolio-item__title {font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-portfolio .elementor-portfolio__filter {color: #7a7a7a;font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-portfolio .elementor-portfolio__filter.elementor-active {color: #0668b3;}
+.elementor-widget-gallery .elementor-gallery-item__title {font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-gallery .elementor-gallery-item__description {font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-gallery {--galleries-title-color-normal: #0668b3;--galleries-title-color-hover: #609cd9;--galleries-pointer-bg-color-hover: #ebb14d;--gallery-title-color-active: #609cd9;--galleries-pointer-bg-color-active: #ebb14d;}
+.elementor-widget-gallery .elementor-gallery-title {font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-form .elementor-field-group>label, .elementor-widget-form .elementor-field-subgroup label {color: #7a7a7a;}
+.elementor-widget-form .elementor-field-group>label {font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-form .elementor-field-type-html {color: #7a7a7a;font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-form .elementor-field-group .elementor-field {color: #7a7a7a;}
+.elementor-widget-form .elementor-field-group .elementor-field, .elementor-widget-form .elementor-field-subgroup label {font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-form .elementor-button {background-color: #ebb14d;font-family: "Lato",Sans-serif;font-weight: 700;}
+.elementor-widget-form .elementor-message {font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-login .elementor-field-group>a {color: #7a7a7a;}
+.elementor-widget-login .elementor-field-group>a:hover {color: #ebb14d;}
+.elementor-widget-login .elementor-form-fields-wrapper label {color: #7a7a7a;font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-login .elementor-field-group .elementor-field {color: #7a7a7a;}
+.elementor-widget-login .elementor-field-group .elementor-field, .elementor-widget-login .elementor-field-subgroup label {font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-login .elementor-button {font-family: "Lato",Sans-serif;font-weight: 700;background-color: #ebb14d;}
+.elementor-widget-login .elementor-widget-container .elementor-login__logged-in-message {color: #7a7a7a;font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-slides .elementor-slide-heading {font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-slides .elementor-slide-description {font-family: "Roboto Slab",Sans-serif;font-weight: 700;}
+.elementor-widget-slides .elementor-slide-button {font-family: "Lato",Sans-serif;font-weight: 700;}
+.elementor-widget-nav-menu .elementor-nav-menu .elementor-item {font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item {color: #7a7a7a;}
+.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item:hover, .elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item.elementor-item-active, .elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item.highlighted, .elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item:focus {color: #ebb14d;}
+.elementor-widget-nav-menu .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:before, .elementor-widget-nav-menu .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:after {background-color: #ebb14d;}
+.elementor-widget-nav-menu .e--pointer-framed .elementor-item:before, .elementor-widget-nav-menu .e--pointer-framed .elementor-item:after {border-color: #ebb14d;}
+.elementor-widget-nav-menu .elementor-nav-menu--dropdown .elementor-item, .elementor-widget-nav-menu .elementor-nav-menu--dropdown .elementor-sub-item {font-family: "Lato",Sans-serif;font-weight: 700;}
+.elementor-widget-animated-headline .elementor-headline-dynamic-wrapper path {stroke: #ebb14d;}
+.elementor-widget-animated-headline .elementor-headline-plain-text {color: #609cd9;}
+.elementor-widget-animated-headline .elementor-headline {font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-animated-headline .elementor-headline-dynamic-text {color: #609cd9;font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-price-list .elementor-price-list-header {color: #0668b3;font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-price-list .elementor-price-list-description {color: #7a7a7a;font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-price-list .elementor-price-list-separator {border-bottom-color: #609cd9;}
+.elementor-widget-price-table .elementor-price-table__header {background-color: #609cd9;}
+.elementor-widget-price-table .elementor-price-table__heading {font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-price-table .elementor-price-table__subheading {font-family: "Roboto Slab",Sans-serif;font-weight: 700;}
+.elementor-widget-price-table .elementor-price-table__price {font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-price-table .elementor-price-table__original-price {color: #609cd9;font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-price-table .elementor-price-table__period {color: #609cd9;font-family: "Roboto Slab",Sans-serif;font-weight: 700;}
+.elementor-widget-price-table .elementor-price-table__features-list {color: #7a7a7a;}
+.elementor-widget-price-table .elementor-price-table__features-list li {font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-price-table .elementor-price-table__features-list li:before {border-top-color: #7a7a7a;}
+.elementor-widget-price-table .elementor-price-table__button {font-family: "Lato",Sans-serif;font-weight: 700;background-color: #ebb14d;}
+.elementor-widget-price-table .elementor-price-table__additional_info {color: #7a7a7a;font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-price-table .elementor-price-table__ribbon-inner {background-color: #ebb14d;font-family: "Lato",Sans-serif;font-weight: 700;}
+.elementor-widget-flip-box .elementor-flip-box__front .elementor-flip-box__layer__title {font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-flip-box .elementor-flip-box__front .elementor-flip-box__layer__description {font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-flip-box .elementor-flip-box__back .elementor-flip-box__layer__title {font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-flip-box .elementor-flip-box__back .elementor-flip-box__layer__description {font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-flip-box .elementor-flip-box__button {font-family: "Lato",Sans-serif;font-weight: 700;}
+.elementor-widget-call-to-action .elementor-cta__title {font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-call-to-action .elementor-cta__description {font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-call-to-action .elementor-cta__button {font-family: "Lato",Sans-serif;font-weight: 700;}
+.elementor-widget-call-to-action .elementor-ribbon-inner {background-color: #ebb14d;font-family: "Lato",Sans-serif;font-weight: 700;}
+.elementor-widget-media-carousel .elementor-carousel-image-overlay {font-family: "Lato",Sans-serif;font-weight: 700;}
+.elementor-widget-testimonial-carousel .elementor-testimonial__text {color: #7a7a7a;font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-testimonial-carousel .elementor-testimonial__name {color: #7a7a7a;font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-testimonial-carousel .elementor-testimonial__title {color: #0668b3;font-family: "Roboto Slab",Sans-serif;font-weight: 700;}
+.elementor-widget-reviews .elementor-testimonial__header, .elementor-widget-reviews .elementor-testimonial__name {font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-reviews .elementor-testimonial__text {font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-table-of-contents {--header-color: #609cd9;--item-text-color: #7a7a7a;--item-text-hover-color: #ebb14d;--marker-color: #7a7a7a;}
+.elementor-widget-table-of-contents .elementor-toc__header, .elementor-widget-table-of-contents .elementor-toc__header-title {font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-table-of-contents .elementor-toc__list-item {font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-countdown .elementor-countdown-item {background-color: #0668b3;}
+.elementor-widget-countdown .elementor-countdown-digits {font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-countdown .elementor-countdown-label {font-family: "Roboto Slab",Sans-serif;font-weight: 700;}
+.elementor-widget-countdown .elementor-countdown-expire--message {color: #7a7a7a;font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-search-form input[type=search].elementor-search-form__input {font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-search-form .elementor-search-form__input, .elementor-widget-search-form .elementor-search-form__icon, .elementor-widget-search-form .elementor-lightbox .dialog-lightbox-close-button, .elementor-widget-search-form .elementor-lightbox .dialog-lightbox-close-button:hover, .elementor-widget-search-form.elementor-search-form--skin-full_screen input[type=search].elementor-search-form__input {color: #7a7a7a;}
+.elementor-widget-search-form .elementor-search-form__submit {font-family: "Calibri",Sans-serif;font-weight: 400;background-color: #609cd9;}
+.elementor-widget-author-box .elementor-author-box__name {color: #609cd9;font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-author-box .elementor-author-box__bio {color: #7a7a7a;font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-author-box .elementor-author-box__button {color: #609cd9;border-color: #609cd9;font-family: "Lato",Sans-serif;font-weight: 700;}
+.elementor-widget-author-box .elementor-author-box__button:hover {border-color: #609cd9;color: #609cd9;}
+.elementor-widget-post-navigation span.post-navigation__prev--label {color: #7a7a7a;}
+.elementor-widget-post-navigation span.post-navigation__next--label {color: #7a7a7a;}
+.elementor-widget-post-navigation span.post-navigation__prev--label, .elementor-widget-post-navigation span.post-navigation__next--label {font-family: "Roboto Slab",Sans-serif;font-weight: 700;}
+.elementor-widget-post-navigation span.post-navigation__prev--title, .elementor-widget-post-navigation span.post-navigation__next--title {color: #609cd9;font-family: "Roboto Slab",Sans-serif;font-weight: 700;}
+.elementor-widget-post-info .elementor-icon-list-item:not(:last-child):after {border-color: #7a7a7a;}
+.elementor-widget-post-info .elementor-icon-list-icon i {color: #0668b3;}
+.elementor-widget-post-info .elementor-icon-list-icon svg {fill: #0668b3;}
+.elementor-widget-post-info .elementor-icon-list-text, .elementor-widget-post-info .elementor-icon-list-text a {color: #609cd9;}
+.elementor-widget-post-info .elementor-icon-list-item {font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-sitemap .elementor-sitemap-title {color: #0668b3;font-family: "Proxima Nova",Sans-serif;font-weight: 700;}
+.elementor-widget-sitemap .elementor-sitemap-item, .elementor-widget-sitemap span.elementor-sitemap-list, .elementor-widget-sitemap .elementor-sitemap-item a {color: #7a7a7a;font-family: "Calibri",Sans-serif;font-weight: 400;}
+.elementor-widget-sitemap .elementor-sitemap-item {color: #7a7a7a;}
+.elementor-widget-blockquote .elementor-blockquote__content {color: #7a7a7a;}
+.elementor-widget-blockquote .elementor-blockquote__author {color: #609cd9;}
+.elementor-widget:not(:last-child) {margin-bottom: 20px;}
+@font-face {font-family: "Proxima Nova";font-style: normal;font-weight: 700;font-display: auto;src: url("https://techopsph.github.io/jgs-ar-2019/wp-content/uploads/proxima-nova-bold-webfont.woff") format("woff"),url("https://techopsph.github.io/jgs-ar-2019/wp-content/uploads/proxima-nova-bold-webfont.ttf") format("truetype");}
+@font-face {font-family: "Proxima Nova";font-style: italic;font-weight: 700;font-display: auto;src: url("https://techopsph.github.io/jgs-ar-2019/wp-content/uploads/proxima-nova-bold-italic-webfont.woff") format("woff"),url("https://techopsph.github.io/jgs-ar-2019/wp-content/uploads/proxima-nova-bold-italic-webfont.ttf") format("truetype");}
+@font-face {font-family: "Proxima Nova";font-style: normal;font-weight: 300;font-display: auto;src: url("https://techopsph.github.io/jgs-ar-2019/wp-content/uploads/proxima-nova-light-webfont.woff") format("woff"),url("https://techopsph.github.io/jgs-ar-2019/wp-content/uploads/proxima-nova-light-webfont.ttf") format("truetype");}
+@font-face {font-family: "Proxima Nova";font-style: italic;font-weight: 300;font-display: auto;src: url("https://techopsph.github.io/jgs-ar-2019/wp-content/uploads/proxima-nova-light-italic-webfont.woff") format("woff"),url("https://techopsph.github.io/jgs-ar-2019/wp-content/uploads/proxima-nova-light-italic-webfont.ttf") format("truetype");}
+@font-face {font-family: "Proxima Nova";font-style: normal;font-weight: 600;font-display: auto;src: url("https://techopsph.github.io/jgs-ar-2019/wp-content/uploads/proxima-nova-semibold-webfont.woff") format("woff"),url("https://techopsph.github.io/jgs-ar-2019/wp-content/uploads/proxima-nova-semibold-webfont.ttf") format("truetype");}
+@font-face {font-family: "Proxima Nova";font-style: italic;font-weight: 600;font-display: auto;src: url("https://techopsph.github.io/jgs-ar-2019/wp-content/uploads/proxima-nova-semibold-italic-webfont.woff") format("woff"),url("https://techopsph.github.io/jgs-ar-2019/wp-content/uploads/proxima-nova-semibold-italic-webfont.ttf") format("truetype");}
+@font-face {font-family: "Proxima Nova";font-style: normal;font-weight: 400;font-display: auto;src: url("https://techopsph.github.io/jgs-ar-2019/wp-content/uploads/proxima-nova-regular-webfont.woff") format("woff"),url("https://techopsph.github.io/jgs-ar-2019/wp-content/uploads/proxima-nova-regular-webfont.ttf") format("truetype");}
+@font-face {font-family: "Proxima Nova";font-style: italic;font-weight: 400;font-display: auto;src: url("https://techopsph.github.io/jgs-ar-2019/wp-content/uploads/proxima-nova-regular-italic-webfont.woff") format("woff"),url("https://techopsph.github.io/jgs-ar-2019/wp-content/uploads/proxima-nova-regular-italic-webfont.ttf") format("truetype");}
+@font-face {font-family: "Proxima Nova";font-style: normal;font-weight: 900;font-display: auto;src: url("https://techopsph.github.io/jgs-ar-2019/wp-content/uploads/proxima-nova-extrabold-webfont.woff") format("woff"),url("https://techopsph.github.io/jgs-ar-2019/wp-content/uploads/proxima-nova-extrabold-webfont.ttf") format("truetype");}
+@font-face {font-family: "Calibri";font-style: normal;font-weight: 400;font-display: auto;src: url("https://techopsph.github.io/jgs-ar-2019/wp-content/uploads/calibri-regular.woff") format("woff"),url("https://techopsph.github.io/jgs-ar-2019/wp-content/uploads/calibri-regular.ttf") format("truetype");}
+@font-face {font-family: "Calibri";font-style: italic;font-weight: 400;font-display: auto;src: url("https://techopsph.github.io/jgs-ar-2019/wp-content/uploads/calibri-regular-italic.woff") format("woff"),url("https://techopsph.github.io/jgs-ar-2019/wp-content/uploads/calibri-regular-italic.ttf") format("truetype");}
+@font-face {font-family: "Calibri";font-style: normal;font-weight: 700;font-display: auto;src: url("https://techopsph.github.io/jgs-ar-2019/wp-content/uploads/calibri-bold.woff") format("woff"),url("https://techopsph.github.io/jgs-ar-2019/wp-content/uploads/calibri-bold.ttf") format("truetype");}
+@font-face {font-family: "Calibri";font-style: italic;font-weight: 700;font-display: auto;src: url("https://techopsph.github.io/jgs-ar-2019/wp-content/uploads/calibri-bold-italic.woff") format("woff"),url("https://techopsph.github.io/jgs-ar-2019/wp-content/uploads/calibri-bold-italic.ttf") format("truetype");}
+@font-face {font-family: "Calibri";font-style: normal;font-weight: 300;font-display: auto;src: url("https://techopsph.github.io/jgs-ar-2019/wp-content/uploads/calibri-light.woff") format("woff"),url("https://techopsph.github.io/jgs-ar-2019/wp-content/uploads/calibri-light.ttf") format("truetype");}
+@font-face {font-family: "Calibri";font-style: italic;font-weight: 300;font-display: auto;src: url("https://techopsph.github.io/jgs-ar-2019/wp-content/uploads/calibri-light-italic.woff") format("woff"),url("https://techopsph.github.io/jgs-ar-2019/wp-content/uploads/calibri-light-italic.ttf") format("truetype");}
